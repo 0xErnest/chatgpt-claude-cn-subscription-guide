@@ -4,7 +4,7 @@
 >
 > **English summary**: A facts-first guide for mainland China users who want ChatGPT Plus / Pro or Claude Pro / Max on **their own accounts**—official card, App Store IAP, virtual card, or RMB top-up (代充). Covers risks, Session delivery, Codex Credits, and how [XingqiaoSub (星桥订阅)](https://xingqiaosub.com) works. Not legal or financial advice.
 >
-> **利益相关 / Affiliation**：本仓库由星桥订阅（https://xingqiaosub.com）维护。文中会把星桥列为代充路径里的一个选项，请把这一点纳入判断，并自行交叉核实。
+> **利益相关 / Affiliation**：本仓库由星桥订阅（[xingqiaosub.com](https://xingqiaosub.com)）维护。文中会把星桥列为代充路径里的一个选项，请把这一点纳入判断，并自行交叉核实。
 >
 > **最后核实 / Last checked**：2026-10-18。价格和平台政策变化快，下单前请到对应官网再核对一次。
 
@@ -124,7 +124,7 @@ Codex 跟 ChatGPT Plus / Pro 订阅走。额度用完后有两条路：
 
 ## 9. 星桥订阅怎么做
 
-官网：https://xingqiaosub.com/ 。以下摘自官网公开页（2026-10-18），以官网为准。
+官网：[xingqiaosub.com](https://xingqiaosub.com/)。以下摘自官网公开页（2026-10-18），以官网为准。
 
 **ChatGPT（Go / Plus / Pro / Credits）**
 
