@@ -1,6 +1,6 @@
 # 用 Session 代充 ChatGPT：它能做什么、多久失效、充完怎么撤销
 
-> 最后核实时间：**2026-10-06**。OpenAI 的设置入口和说明可能变化，操作前以 [OpenAI 帮助中心](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt) 为准。文末有利益相关披露。
+> 最后核实时间：**2026-10-18**。OpenAI 的设置入口和说明可能变化，操作前以 [OpenAI 帮助中心](https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt) 为准。文末有利益相关披露。
 
 ## 先说结论
 
