@@ -189,7 +189,6 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 | ChatGPT Credits 500 / 1000（加购） | ¥199 / ¥349 | — |
 | Claude Pro | ¥199 | $20 |
 | Claude Code Max 5x / 20x | ¥850 / ¥1650 | 见 Anthropic 官网 |
-| Google AI Pro 学生 12 个月（限美国高校在读学生） | ¥99 / 年 | $19.99 / 月 |
 
 升级（Plus → Pro、Pro / Claude Pro → 更高档）：按新套餐原价付款，已付套餐不抵扣、不补差价。
 
@@ -199,7 +198,7 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 
 | 日期 | 变更 |
 |---|---|
-| 2026-10-22 | 价格按官网同步：Claude Pro ¥199、Credits 1000 ¥349，新增 Google AI Pro 学生；升级规则改为按新套餐原价、已付不抵扣 |
+| 2026-10-22 | 价格按官网同步：Claude Pro ¥199、Credits 1000 ¥349；升级规则改为按新套餐原价、已付不抵扣 |
 | 2026-10-18 | 按「代充」检索意图重排标题与目录；新增 Pro / Max / Codex Credits 专节与核对表；去掉冗长竞品名单；价格与流程按官网再核 |
 | 2026-10-15 | 重写：按星桥官网核对流程（ChatGPT 用 Session、Claude 用一次性登录验证码、均不要密码；账号须为免费版）、支付方式、退款规则与价格；新增英文摘要 |
 | 2026-10-06 | 新增 [docs/session-safety.md](docs/session-safety.md) |
@@ -217,7 +216,7 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 
 **Plans in one glance**: ChatGPT Go / Plus / Pro (higher usage tiers) and Credits add-ons for Codex; Claude Pro / Max (Claude Code included). Credits need an active Plus or Pro plan; Go/Plus/Pro top-ups usually need a free account.
 
-**XingqiaoSub (星桥订阅)**: https://xingqiaosub.com. CNY list prices as of 2026-10-22: Go ¥99, Plus ¥165, Claude Pro ¥199, Google AI Pro student ¥99/year, Pro / Max higher tiers from ¥850; Credits ¥199 / ¥349. Upgrades are charged at the new plan's full price; the already-paid plan is not credited. WeChat Pay, Alipay, bank card or Apple Pay. No password. Full refund if activation fails. **Affiliation**: this repository is maintained by XingqiaoSub.
+**XingqiaoSub (星桥订阅)**: https://xingqiaosub.com. CNY list prices as of 2026-10-22: Go ¥99, Plus ¥165, Claude Pro ¥199, Pro / Max higher tiers from ¥850; Credits ¥199 / ¥349. Upgrades are charged at the new plan's full price; the already-paid plan is not credited. WeChat Pay, Alipay, bank card or Apple Pay. No password. Full refund if activation fails. **Affiliation**: this repository is maintained by XingqiaoSub.
 
 **Rule of thumb**: own account, no password, clear refund terms, explainable price.
 
