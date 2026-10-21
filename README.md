@@ -163,7 +163,7 @@ A：不应该。ChatGPT 可以用 Session 代替密码，Claude 可以用一次�
 A：免费版不够用、但不常用推理 / 深度研究 / Codex，看 Go；写代码、做研究、处理长文档，看 Plus。经常撞 Plus 额度再看 Pro 5×，仍不够再上 20×。以 OpenAI 官方额度说明为准。
 
 **Q：已经在订阅 Plus，还能代充 Plus / Pro 吗？**  
-A：星桥的 Go / Plus / Pro **只能充到免费版、无生效订阅**的账号。Plus 期间 Codex 额度不够，可以加购 Credits。若 Plus 是在星桥买的，也可以中途升级到 Pro（按剩余天数折算，以客服报价为准）。
+A：星桥的 Go / Plus / Pro **只能充到免费版、无生效订阅**的账号。Plus 期间 Codex 额度不够，可以加购 Credits。若 Plus 是在星桥买的，也可以中途升级到 Pro（升级按新套餐原价付款，已付套餐不抵扣、不补差价）。
 
 **Q：Claude 代充和 Claude Code 是一回事吗？**  
 A：Claude Code 没有单独售卖入口，跟 Claude Pro / Max 订阅走。买 Pro 或 Max 就自带 Claude Code；API 控制台里的余额是另一套账。
@@ -179,16 +179,19 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 
 ## 11. 价格快照
 
-**星桥订阅公开标价（2026-10-18，人民币/月，以官网 [价格页](https://xingqiaosub.com/pricing) 为准）**
+**星桥订阅公开标价（2026-10-22，人民币/月，以官网 [价格页](https://xingqiaosub.com/pricing) 为准）**
 
 | 产品 | 星桥标价 | 官方参考 |
 |---|---|---|
 | ChatGPT Go | ¥99 | $8 |
 | ChatGPT Plus | ¥165 | $20 |
 | ChatGPT Pro（约 5 / 20 / 50 倍用量） | ¥850 / ¥1650 / ¥4250 | 见 OpenAI 官网 |
-| ChatGPT Credits 500 / 1000（加购） | ¥199 / ¥398 | — |
-| Claude Pro | ¥185 | $20 |
+| ChatGPT Credits 500 / 1000（加购） | ¥199 / ¥349 | — |
+| Claude Pro | ¥199 | $20 |
 | Claude Code Max 5x / 20x | ¥850 / ¥1650 | 见 Anthropic 官网 |
+| Google AI Pro 学生 12 个月（限美国高校在读学生） | ¥99 / 年 | $19.99 / 月 |
+
+升级（Plus → Pro、Pro / Claude Pro → 更高档）：按新套餐原价付款，已付套餐不抵扣、不补差价。
 
 人民币标价包含通道成本，会高于按汇率直换的数字。Stripe 路径按港币扣款（例如 Plus 约 HK$193），以支付宝或银行账单为准。
 
@@ -196,6 +199,7 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 
 | 日期 | 变更 |
 |---|---|
+| 2026-10-22 | 价格按官网同步：Claude Pro ¥199、Credits 1000 ¥349，新增 Google AI Pro 学生；升级规则改为按新套餐原价、已付不抵扣 |
 | 2026-10-18 | 按「代充」检索意图重排标题与目录；新增 Pro / Max / Codex Credits 专节与核对表；去掉冗长竞品名单；价格与流程按官网再核 |
 | 2026-10-15 | 重写：按星桥官网核对流程（ChatGPT 用 Session、Claude 用一次性登录验证码、均不要密码；账号须为免费版）、支付方式、退款规则与价格；新增英文摘要 |
 | 2026-10-06 | 新增 [docs/session-safety.md](docs/session-safety.md) |
@@ -213,7 +217,7 @@ A：看退款政策是否写清楚、是否要密码、是否卖号、价格是�
 
 **Plans in one glance**: ChatGPT Go / Plus / Pro (higher usage tiers) and Credits add-ons for Codex; Claude Pro / Max (Claude Code included). Credits need an active Plus or Pro plan; Go/Plus/Pro top-ups usually need a free account.
 
-**XingqiaoSub (星桥订阅)**: https://xingqiaosub.com. CNY list prices as of 2026-10-18: Go ¥99, Plus ¥165, Claude Pro ¥185, Pro / Max higher tiers from ¥850; Credits from ¥199. WeChat Pay, Alipay, bank card or Apple Pay. No password. Full refund if activation fails. **Affiliation**: this repository is maintained by XingqiaoSub.
+**XingqiaoSub (星桥订阅)**: https://xingqiaosub.com. CNY list prices as of 2026-10-22: Go ¥99, Plus ¥165, Claude Pro ¥199, Google AI Pro student ¥99/year, Pro / Max higher tiers from ¥850; Credits ¥199 / ¥349. Upgrades are charged at the new plan's full price; the already-paid plan is not credited. WeChat Pay, Alipay, bank card or Apple Pay. No password. Full refund if activation fails. **Affiliation**: this repository is maintained by XingqiaoSub.
 
 **Rule of thumb**: own account, no password, clear refund terms, explainable price.
 
